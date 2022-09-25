@@ -1,0 +1,20 @@
+#general{
+	width:100%;
+	height:650px;
+	margin:auto;
+	background-color:gray;
+}
+
+#publicidad{
+	width:30%;
+	height:400px;
+	float:right;
+	margin-top:5px;
+}
+
+#contenido{
+	width:850px;
+	height:200px;
+	background-color:;
+	margin-top:5px;
+}

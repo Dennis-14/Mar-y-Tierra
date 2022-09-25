@@ -1,0 +1,38 @@
+#Principal{
+	width:100%;
+	height:2000x;
+	margin:auto;
+}
+
+#A1{
+	width:100%;
+	height:200px;
+	margin: auto;
+	background-color:azure;
+}
+
+#Platillos{
+	width:100%;
+	height:650px;
+	margin: auto;
+	background-color:azure;
+	border: 2px solid #000000
+}
+
+#Bebidas{
+	width:100%;
+	height:550px;
+	margin: auto;
+	background-color:azure;
+	border: 2px solid #000000
+}
+
+#Postres{
+	width:100%;
+	height:350px;
+	margin: auto;
+	background-color:azure;
+	border: 2px solid #000000
+}
+
+
